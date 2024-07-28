@@ -9,14 +9,20 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="694133cb-09e0-456c-a1a9-bd45ddb7a0e9" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/Views/Home/CreateEditExpense.cshtml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.SpendSmart/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.SpendSmart/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Controllers/HomeController.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Controllers/HomeController.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Views/Shared/_Layout.cshtml" beforeDir="false" afterPath="$PROJECT_DIR$/Views/Shared/_Layout.cshtml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Program.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpendSmart.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/SpendSmart.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Views/Home/Index.cshtml" beforeDir="false" afterPath="$PROJECT_DIR$/Views/Home/Index.cshtml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DpaMonitoringSettings">
+    <option name="autoShow" value="false" />
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -34,6 +40,7 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    ".NET Launch Settings Profile.SpendSmart: http.executor": "Debug",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main",
     "node.js.detected.package.eslint": "true",
@@ -94,7 +101,7 @@
       <updated>1722104971835</updated>
       <workItem from="1722104985550" duration="163000" />
       <workItem from="1722163855736" duration="644000" />
-      <workItem from="1722164613713" duration="3001000" />
+      <workItem from="1722164613713" duration="13236000" />
     </task>
     <servers />
   </component>
