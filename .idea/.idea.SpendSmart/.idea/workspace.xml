@@ -9,11 +9,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="694133cb-09e0-456c-a1a9-bd45ddb7a0e9" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/Models/SpendSmartDbContext.cs" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/Views/Home/CreateEditExpense.cshtml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.SpendSmart/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.SpendSmart/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Controllers/HomeController.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Controllers/HomeController.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Program.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/SpendSmart.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/SpendSmart.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Views/Home/Expenses.cshtml" beforeDir="false" afterPath="$PROJECT_DIR$/Views/Home/Expenses.cshtml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Views/Home/Index.cshtml" beforeDir="false" afterPath="$PROJECT_DIR$/Views/Home/Index.cshtml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -40,7 +42,7 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
-    ".NET Launch Settings Profile.SpendSmart: http.executor": "Debug",
+    ".NET Launch Settings Profile.SpendSmart: http.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main",
     "node.js.detected.package.eslint": "true",
@@ -101,7 +103,7 @@
       <updated>1722104971835</updated>
       <workItem from="1722104985550" duration="163000" />
       <workItem from="1722163855736" duration="644000" />
-      <workItem from="1722164613713" duration="13236000" />
+      <workItem from="1722164613713" duration="17260000" />
     </task>
     <servers />
   </component>
