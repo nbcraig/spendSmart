@@ -8,7 +8,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ca208487-1b2f-4408-86ad-9c7941dc9ad3" name="Changes" comment="" />
+    <list default="true" id="ca208487-1b2f-4408-86ad-9c7941dc9ad3" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.SpendSmart.dir/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.SpendSmart.dir/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -17,10 +19,13 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 8
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 8
+}</component>
   <component name="ProjectId" id="2jy3rqo1y8kleOS2COsXTH8vxrq" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -35,6 +40,13 @@
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
     "vue.rearranger.settings.migration": "true"
+  },
+  "keyToStringList": {
+    "rider.external.source.directories": [
+      "/home/craig/.config/JetBrains/Rider2024.1/resharper-host/DecompilerCache",
+      "/home/craig/.config/JetBrains/Rider2024.1/resharper-host/SourcesCache",
+      "/home/craig/.local/share/Symbols/src"
+    ]
   }
 }]]></component>
   <component name="RunManager" selected=".NET Launch Settings Profile.SpendSmart: http">
@@ -78,6 +90,7 @@
       <option name="presentableId" value="Default" />
       <updated>1722345741848</updated>
       <workItem from="1722345765739" duration="980000" />
+      <workItem from="1722413741805" duration="3567000" />
     </task>
     <servers />
   </component>
