@@ -6,11 +6,6 @@ public class Expense
     public decimal Value { get; set; }
     public string? Description { get; set; }
     
-    // The date will be read only after a DateOnly object is created
-    public DateOnly CreationDate { get; }
-
-    public Expense(DateOnly creationDate)
-    {
-        this.CreationDate = CreationDate;
-    }
+    // The date will be read only after a DateTime object is created
+    public DateTime CreationDate { get; }
 }
