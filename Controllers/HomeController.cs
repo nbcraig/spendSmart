@@ -1,8 +1,8 @@
 using System.Diagnostics;
 using Microsoft.AspNetCore.Mvc;
-using SpendSmart.Models;
+using spendSmart.Models;
 
-namespace SpendSmart.Controllers;
+namespace spendSmart.Controllers;
 
 public class HomeController : Controller
 {
@@ -14,11 +14,6 @@ public class HomeController : Controller
     }
 
     public IActionResult Index()
-    {
-        return View();
-    }
-
-    public IActionResult Expenses()
     {
         return View();
     }

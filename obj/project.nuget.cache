@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "1UKNkn2595ampFugZnfJk8AFYIv+MKz0O9Cy74C0KvG9LNUEXxkyE68KdujMbmfOapK7z7kpgqJfpiQGJ5t9AQ==",
+  "dgSpecHash": "457j/4mK1hJ0bmIYBKvu/HLPnr0ME2fqaE8SycrUcJtKnxixRj/6drdU5hNPbjDp4rF/FNBK3QFaGGMkjxQqCQ==",
   "success": true,
-  "projectFilePath": "/home/craig/Desktop/SpendSmart/SpendSmart.csproj",
+  "projectFilePath": "/home/craig/Desktop/spendSmart/spendSmart.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

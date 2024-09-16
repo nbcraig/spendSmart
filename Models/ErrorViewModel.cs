@@ -1,4 +1,4 @@
-namespace SpendSmart.Models;
+namespace spendSmart.Models;
 
 public class ErrorViewModel
 {

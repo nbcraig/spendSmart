@@ -1,1 +1,0 @@
-A basic spending tracker.

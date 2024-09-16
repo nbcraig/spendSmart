@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/home/craig/Desktop/SpendSmart/SpendSmart.csproj": {}
+    "/home/craig/Desktop/spendSmart/spendSmart.csproj": {}
   },
   "projects": {
-    "/home/craig/Desktop/SpendSmart/SpendSmart.csproj": {
+    "/home/craig/Desktop/spendSmart/spendSmart.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/craig/Desktop/SpendSmart/SpendSmart.csproj",
-        "projectName": "SpendSmart",
-        "projectPath": "/home/craig/Desktop/SpendSmart/SpendSmart.csproj",
+        "projectUniqueName": "/home/craig/Desktop/spendSmart/spendSmart.csproj",
+        "projectName": "spendSmart",
+        "projectPath": "/home/craig/Desktop/spendSmart/spendSmart.csproj",
         "packagesPath": "/home/craig/.nuget/packages/",
-        "outputPath": "/home/craig/Desktop/SpendSmart/obj/",
+        "outputPath": "/home/craig/Desktop/spendSmart/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/craig/.nuget/NuGet/NuGet.Config"
